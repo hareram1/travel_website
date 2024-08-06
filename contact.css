@@ -1,0 +1,74 @@
+.nav-bar {
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    height: 100px;
+    background-color: #15343da2;
+    box-shadow: 3px 3px 10px rgb(0, 0, 0);
+    align-items: center;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+  .nav-bar{
+    background-image: url("birds\ in\ sky.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+  .logo {
+    flex: 1;
+    font-size: 40px;
+    padding: 20px;
+    margin-left: 50px;
+    font-family: Satisfy;
+  }
+  
+  
+  ul.menu {
+    flex: 1;
+    display: flex;
+    flex-flow: row wrap;
+  }
+  
+  .menu li {
+    flex: 1;
+    list-style-type: none;
+    font-size: 16px;
+    font-family: "Barlow Condensed";
+    text-align: center;
+  }
+  
+  .menu li a {
+    text-decoration: none;
+    color: #000000;
+    text-transform: uppercase;
+  }
+  
+  .menu li a:hover {
+    color: rgb(254, 6, 6);
+    text-decoration: underline;
+  }
+
+
+body {
+    text-align: center;
+    background-color: #a9d7e9;
+  }
+  
+  
+  p {
+    font-size: 22px;
+  }
+  
+  
+  .box {
+    margin: auto;
+    width: 800px;
+    background-color: #f3f3f3;
+    border-radius: 10px;
+    padding: 20px 10px 10px 10px;
+  }
+  
