@@ -1,3 +1,4 @@
+/* CSS code for friends (chat) section */
 .nav-bar {
     display: flex;
     flex-flow: row wrap;
@@ -52,7 +53,7 @@
     text-decoration: underline;
   }
 
-  
+  /* Chat container */
 
 .chat-container {
     background-image: url("plane\ sky.jpg");
