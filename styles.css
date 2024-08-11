@@ -11,7 +11,7 @@ html {
 }
 
 
-
+/*Nev bar*/
 
 .nav-bar {
   display: flex;
@@ -67,7 +67,7 @@ ul.menu {
   text-decoration: underline;
 }
 
-
+/*Background video*/
 
 .back-video {
 flex: 1;

@@ -110,6 +110,7 @@
     align-self: flex-end;
 }
 
+/*Button for chat input*/
 .chat-input {
     display: flex;
     padding: 10px;
